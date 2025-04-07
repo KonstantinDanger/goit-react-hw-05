@@ -1,4 +1,4 @@
-import { getImagePath } from "../../api/movieSearchApi";
+import { getImagePath } from "../../api/MovieSearchApi";
 import css from "./Review.module.css";
 
 export default function Review({ review }) {

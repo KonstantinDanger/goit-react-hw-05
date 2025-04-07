@@ -1,4 +1,4 @@
-import { getImagePath } from "../../api/movieSearchApi";
+import { getImagePath } from "../../api/MovieSearchApi";
 
 export default function ActorCard({ actor }) {
   return (

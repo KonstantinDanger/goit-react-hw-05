@@ -1,4 +1,4 @@
-import { getImagePath } from "../../api/movieSearchApi";
+import { getImagePath } from "../../api/MovieSearchApi";
 import css from "./MovieDetails.module.css";
 
 export default function MovieDetails({ movieDetails }) {

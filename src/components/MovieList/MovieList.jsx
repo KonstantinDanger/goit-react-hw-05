@@ -1,5 +1,5 @@
 import { NavLink, useLocation } from "react-router-dom";
-import { getImagePath } from "../../api/movieSearchApi";
+import { getImagePath } from "../../api/MovieSearchApi";
 import MovieTitle from "../MovieTitle/MovieTitle";
 import css from "./MovieList.module.css";
 
