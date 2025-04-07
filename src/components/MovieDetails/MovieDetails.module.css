@@ -1,0 +1,14 @@
+.movieDetails {
+  margin-top: 10px;
+  display: flex;
+  gap: 30px;
+}
+
+.infoBlock {
+  width: 30%;
+}
+
+.movieDetails img {
+  border-radius: 2px;
+  height: 480px;
+}

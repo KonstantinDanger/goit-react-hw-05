@@ -1,0 +1,28 @@
+.bar {
+  background-color: mediumaquamarine;
+}
+
+.linkList {
+  list-style: none;
+  display: flex;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.link {
+  margin-left: 4px;
+  border: 1px solid rgb(129, 129, 129);
+  border-radius: 4px;
+  background-color: rgba(255, 255, 255, 0.459);
+  height: 40px;
+  width: 60px;
+  font-size: large;
+}
+
+.active {
+  color: aqua;
+}
+
+.inactive {
+  color: orangered;
+}

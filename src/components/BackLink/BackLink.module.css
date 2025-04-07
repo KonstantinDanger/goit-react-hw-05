@@ -1,0 +1,10 @@
+.backLink {
+  background-color: rgb(83, 82, 82);
+  border-radius: 5px;
+  border: 1.5px solid rgb(0, 0, 0);
+  color: aliceblue;
+  padding: 4px;
+  width: 60px;
+  display: block;
+  text-align: center;
+}
